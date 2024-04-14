@@ -22,7 +22,16 @@ Explore the [Figma design](https://www.figma.com/file/FJ4czaVeZcM0xRUNyI13UX/Dak
 Join us in reshaping law enforcement operations for a more efficient and effective future!
 
 # Screenshots
-![Screenshot (7)](https://github.com/Daya-s-k/daksh-team-final/assets/166999512/208b1c71-9f63-46c3-944a-924da8ea7db1)
+![Screenshot (6)](https://github.com/Daya-s-k/daksh-team-final/assets/166999512/6440edef-8cdb-4e71-a638-c390954e9ef3)
+![Screenshot (4)](https://github.com/Daya-s-k/daksh-team-final/assets/166999512/2710bbc4-28ec-4da7-a64d-22d69c80bb79)
+![Screenshot (5)](https://github.com/Daya-s-k/daksh-team-final/assets/166999512/3e112013-9fa7-4fca-ae36-3a78e7d80e82)
+![Screenshot (7)](https://github.com/Daya-s-k/daksh-team-final/assets/166999512/69d06b2b-20dc-4868-bb82-02cc46bd6f4d)
+
+
+
+
+
+
 
 # Figma Design for Daksh Police
 
